@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/neaweforge/.github/main/assets/neaweforge_logo.png" width="120" alt="Neawe Forge" />
+<img src="https://raw.githubusercontent.com/neaweforge/.github/main/assets/new_logo.png" width="250" alt="Neawe Forge" />
 
 # Neawe Forge
 
